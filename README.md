@@ -1,1 +1,1 @@
-# Projects
+This is a program for medication inventory management in C++ that takes in the user input of a medication’s name and various characteristics including schedule, color, shape, tablet/capsule, and wording. It can be used to enhance medication identification by providing accurate descriptions, aiding in patient safety and inventory management.
